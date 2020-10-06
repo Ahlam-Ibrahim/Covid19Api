@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-09-05T11:22:54.2995847Z"
+    }
+  },
+  "parameters": {
+    "mssql2.subscriptionId": {
+      "Type": "subscription",
+      "Value": "d98a182a-3f6d-4286-8b80-7a7ec5025399"
+    },
+    "mssql2.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "Covid-19API"
+    }
+  }
+}
